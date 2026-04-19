@@ -3,4 +3,6 @@ Hi, I'm Shreya! 👋
 
 💻 Full-Stack Developer interested in AI, ML, and Backend Systems.
 
-🛠 Skills: Python, SQL, MERN Stack, C++.
+🛠 Skills: Python, SQL, MERN Stack.
+
+Open Source Contributor | GSSoC 2026
