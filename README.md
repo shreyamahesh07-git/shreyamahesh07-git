@@ -72,6 +72,7 @@
 
 - **Infosys Springboard Virtual Internship 7.0** — Batch 2 
 - **AI & GPU Summer Internship Program**, Presidency University × NVIDIA — hands-on deep learning and GPU computing on H200 infrastructure 
+
 ---
 
 ## Featured Projects
@@ -96,20 +97,11 @@ Built on Arduino UNO with ultrasonic sensors and a custom decision algorithm for
 
 Active contributor in GirlScript Summer of Code 2026, working across bug fixes, feature development, and documentation.
 
-> _Add specific repos/PRs here once you have a few merged — even 2-3 linked PRs makes this section much more concrete than a general description._
-
-- [ ] PR #___ — *repo name* — brief description
-- [ ] PR #___ — *repo name* — brief description
+- **[sahidawa-india](https://github.com/RatLoopz/sahidawa-india)** — Added a "Copy to Clipboard" button on the medicine verification result card ([PR #327](https://github.com/RatLoopz/sahidawa-india/pull/327))
+- **[Event-management-system-main](https://github.com/anubhavxdev/Event-management-system-main)** — Built an event countdown timer for the Event Detail page and event cards ([PR #191](https://github.com/anubhavxdev/Event-management-system-main/pull/191))
+- **[Event-management-system-main](https://github.com/anubhavxdev/Event-management-system-main)** — Working on an event review and star rating system (full flow)
 
 ---
-
-## Achievements & Certifications
-
-> _Fill in as you complete these — certificates are one of the highest-signal things recruiters scan for._
-
-- 🏆 *Add certifications (Google, Kaggle, Hugging Face, Microsoft, AWS, deeplearning.ai, etc.)*
-- 🏆 *Add competition/hackathon participation or wins*
-- 🏆 *Add published work, if any*
 
 ---
 
