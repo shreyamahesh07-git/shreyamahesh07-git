@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Shreya</h1>
+<h1 align="center">Hi, I'm Shreya </h1>
 <h3 align="center">CS (AI & ML) Student · Full-Stack Developer · Open Source Contributor</h3>
 
 <p align="center">
@@ -11,21 +11,34 @@
   <a href="https://github.com/shreyamahesh07-git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=shreyamahesh07-git&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#experience">Experience</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#open-source--gssoc-2026">Open Source</a> •
+  <a href="#achievements--certifications">Achievements</a> •
+  <a href="#github-stats">GitHub Stats</a> •
+  <a href="#lets-connect">Let's Connect</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- **CS (AI & ML) @ Presidency University** — CGPA: **9.6**
-- Full-Stack Developer specializing in the **MERN stack**
-- Currently diving deep into **MLOps & Deployment** — model serving, pipelines, and production ML
-- Active contributor in **GSSoC 2026** — building real-world open source features
-- Goal: Ship impactful tech that solves real problems
+- 🎓 **CS (AI & ML) @ Presidency University** — CGPA: **9.6**
+- 🌐 Full-Stack Developer specializing in the **MERN stack**
+- 🤖 Currently building an **ML pipeline for model deployment** as part of my MLOps learning — covering model serving, versioning, and monitoring
+- 🌱 Active contributor in **GSSoC 2026**, working on real feature and bug-fix PRs
+- 💡 Genuinely enjoy the intersection of AI and web development — I like building things that go from a notebook to something people can actually use
+- 🎯 Long-term, I want to work on applied ML systems — not just training models, but shipping them
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,6 +57,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -53,24 +67,55 @@
 
 ---
 
-## 📌 Featured Projects
+## Experience
 
-### 🧠 Mental Health Chatbot · [Repo](https://github.com/shreyamahesh07-git/mental-health-chatbot-mern)
-> MERN-stack web app with an AI-powered chatbot for mental wellness support. The chatbot uses sentiment-aware responses to guide users through coping strategies and resources. Built with React, Node.js, Express, and MongoDB.
-> 
-> **Key features:** Conversational UI, session-based chat history, mood detection, resource recommendations
+> _Add specifics here as you have them — even a one-line internship or virtual program counts._
 
-### 🤖 Obstacle Avoiding Robot · [Repo](https://github.com/shreyamahesh07-git/Obstacle-Avoiding-robot)
-> Autonomous robot built with Arduino that uses ultrasonic sensors to detect and navigate around obstacles in real time. Implements a custom decision algorithm for directional control.
-> 
-> **Stack:** Arduino UNO, C++, HC-SR04 ultrasonic sensors, L298N motor driver
-
-### 🌍 Open Source — GSSoC 2026
-> Active contributor in GirlScript Summer of Code 2026. Working on bug fixes, feature development, and documentation improvements across open source repositories.
+- **Infosys Springboard Virtual Internship 7.0** — Batch 2 *(add dates + a line on what you're working on)*
+- **AI & GPU Summer Internship Program**, Presidency University × NVIDIA — hands-on deep learning and GPU computing on H200 infrastructure *(add dates once complete)*
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
+
+### 🧠 [Mental Health Chatbot](https://github.com/shreyamahesh07-git/mental-health-chatbot-mern)
+*A MERN-stack app with a sentiment-aware chatbot for mental wellness support.*
+
+Built with React, Node.js, Express, and MongoDB — the chatbot picks up on user sentiment to guide people toward coping strategies and relevant resources.
+
+**Key features:** Conversational UI · Session-based chat history · Mood detection · Resource recommendations
+
+### 🤖 [Obstacle Avoiding Robot](https://github.com/shreyamahesh07-git/Obstacle-Avoiding-robot)
+*An autonomous robot that senses and steers around obstacles in real time.*
+
+Built on Arduino UNO with ultrasonic sensors and a custom decision algorithm for directional control.
+
+**Stack:** Arduino UNO · C++ · HC-SR04 ultrasonic sensors · L298N motor driver
+
+---
+
+## Open Source — GSSoC 2026
+
+Active contributor in GirlScript Summer of Code 2026, working across bug fixes, feature development, and documentation.
+
+> _Add specific repos/PRs here once you have a few merged — even 2-3 linked PRs makes this section much more concrete than a general description._
+
+- [ ] PR #___ — *repo name* — brief description
+- [ ] PR #___ — *repo name* — brief description
+
+---
+
+## Achievements & Certifications
+
+> _Fill in as you complete these — certificates are one of the highest-signal things recruiters scan for._
+
+- 🏆 *Add certifications (Google, Kaggle, Hugging Face, Microsoft, AWS, deeplearning.ai, etc.)*
+- 🏆 *Add competition/hackathon participation or wins*
+- 🏆 *Add published work, if any*
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyamahesh07-git&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -82,6 +127,15 @@
 </p>
 
 ---
+
+## Let's Connect
+
+I'm always up for talking AI/ML, web dev, or open source — feel free to reach out if you want to collaborate on a project or just compare notes on GSSoC.
+
+<p align="center">
+  <a href="mailto:shreya.mahesh07@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/shreya-mahesh07/">LinkedIn</a>
+</p>
 
 > *"Consistency beats intensity."*
 
