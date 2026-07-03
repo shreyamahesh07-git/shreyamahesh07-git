@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shreya </h1>
+<h1 align="center">Hi, I'm Shreya 👋</h1>
 <h3 align="center">CS (AI & ML) Student · Full-Stack Developer · Open Source Contributor</h3>
 
 <p align="center">
@@ -69,9 +69,10 @@
 
 ## Experience
 
+> _Add specifics here as you have them — even a one-line internship or virtual program counts._
 
-- **Infosys Springboard Virtual Internship 7.0** — Batch 2 
-- **AI & GPU Summer Internship Program**, Presidency University × NVIDIA — hands-on deep learning and GPU computing on H200 infrastructure 
+- **Infosys Springboard Virtual Internship 7.0** — Batch 2 *(add dates + a line on what you're working on)*
+- **AI & GPU Summer Internship Program**, Presidency University × NVIDIA — hands-on deep learning and GPU computing on H200 infrastructure *(add dates once complete)*
 
 ---
 
@@ -102,6 +103,14 @@ Active contributor in GirlScript Summer of Code 2026, working across bug fixes, 
 - **[Event-management-system-main](https://github.com/anubhavxdev/Event-management-system-main)** — Working on an event review and star rating system (full flow)
 
 ---
+
+## Achievements & Certifications
+
+> _Fill in as you complete these — certificates are one of the highest-signal things recruiters scan for._
+
+- 🏆 *Add certifications (Google, Kaggle, Hugging Face, Microsoft, AWS, deeplearning.ai, etc.)*
+- 🏆 *Add competition/hackathon participation or wins*
+- 🏆 *Add published work, if any*
 
 ---
 
