@@ -69,11 +69,9 @@
 
 ## Experience
 
-> _Add specifics here as you have them — even a one-line internship or virtual program counts._
 
-- **Infosys Springboard Virtual Internship 7.0** — Batch 2 *(add dates + a line on what you're working on)*
-- **AI & GPU Summer Internship Program**, Presidency University × NVIDIA — hands-on deep learning and GPU computing on H200 infrastructure *(add dates once complete)*
-
+- **Infosys Springboard Virtual Internship 7.0** — Batch 2 
+- **AI & GPU Summer Internship Program**, Presidency University × NVIDIA — hands-on deep learning and GPU computing on H200 infrastructure 
 ---
 
 ## Featured Projects
